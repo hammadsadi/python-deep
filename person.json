@@ -1,0 +1,11 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "jhon@gmail.com",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ],
+    "isDeveloper": true
+}
